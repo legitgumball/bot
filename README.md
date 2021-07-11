@@ -1,0 +1,2 @@
+# bot
+My gaming bot
